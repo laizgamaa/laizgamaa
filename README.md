@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/laizgamaa/laizgamaa/master/img/dev_focus.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Development">
 
 <p align="left">
-    Oi! Sou a Laiz. Programo para a web desde os 14 anos, e desde 2019 trabalho como <strong>Desenvolvedora Web Front-End.</strong> Estou disponível para freelas/trabalho, então, se precisar é só chamar.
+    Oi! Sou a Laiz. Programo para a web desde os 14 anos, e desde 2019 trabalho como <strong>Desenvolvedora Web Front-End.</strong> Estou disponível para freelas, então, se precisar é só chamar.
 </p>
 
 <p align="left">
