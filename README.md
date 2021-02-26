@@ -1,5 +1,3 @@
-![Development](https://raw.githubusercontent.com/laizgamaa/laizgamaa/master/img/dev_focus.png)
-
 Oi! Sou a Laiz. Programo para a web desde os 14 anos, e desde 2019 trabalho como **Desenvolvedora Web Front-End.** Estou disponível para freelas/trabalho, então, se precisar é só chamar.
 
 🦄 Minhas principais skills: **HTML5, CSS3, JavaScript, Bootstrap, ReactJS, Angular, Flexbox, UI/UX Design.**
