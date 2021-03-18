@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Minhas principais skills: <strong>HTML5, CSS3, JavaScript, Bootstrap, ReactJS, Angular, Flexbox, UI/UX Design.</strong>
+  🦄 Minhas principais skills: <strong>HTML5, CSS3, JavaScript, Bootstrap, ReactJS, Vue, Flexbox, UI/UX Design.</strong>
 </p>
 
 <p align="left">
