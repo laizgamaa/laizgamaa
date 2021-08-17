@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Minhas principais skills: <strong>HTML5, CSS3, JavaScript, Bootstrap, ReactJS, Vue, Flexbox, UI/UX Design.</strong>
+  🦄 Minhas principais skills: <strong>React, HTML5, (S)CSS, JavaScript, NextJS, Bootstrap, Flexbox, UI/UX Design.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas que utilizo: <strong>VSCode, Adobe XD, Photoshop, GitHub.</strong>
+  💼 Ferramentas que utilizo: <strong>VSCode, Adobe XD, GitHub, Gitlab.</strong>
 </p>
 
 <p align="left">
